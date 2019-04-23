@@ -1,0 +1,3 @@
+This project uses two different time serries forecasting methods to predict new york energy load values into the future.
+The first is Fbprophet, which is facebook's easy to use time series forcaster that works well on data sets with high seasonality and limited info.
+The second is an ARIMA model reached using the auto arima function
